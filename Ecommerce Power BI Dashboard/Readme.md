@@ -27,7 +27,7 @@ Evaluates delivery performance through on-time delivery rates, late deliveries, 
 
 The report uses a relational semantic model designed to support analysis across orders, order items, products, customers, sellers, payments, reviews, and delivery performance.
 
-![Power BI Semantic Model](<img width="740" height="734" alt="image" src="https://github.com/user-attachments/assets/9d7a3a15-6b2c-4c69-a8fd-425505e4ebff" />
+(<img width="740" height="734" alt="image" src="https://github.com/user-attachments/assets/9d7a3a15-6b2c-4c69-a8fd-425505e4ebff" />
 )
 
 ### Star Schema & Relationships
