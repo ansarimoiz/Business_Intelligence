@@ -6,19 +6,19 @@ An interactive Power BI dashboard built using the Brazilian E-Commerce Public Da
 
 ### 1. Executive Overview
 
-![Executive Overview](<img width="1352" height="762" alt="image" src="https://github.com/user-attachments/assets/749fa22c-5d36-43fc-9ec9-1aac296f300f" /> )
+![Executive Overview](https://github.com/user-attachments/assets/749fa22c-5d36-43fc-9ec9-1aac296f300f)
 
 Provides a consolidated view of marketplace performance, including sales, order volume, delivery metrics, average review scores, monthly sales trends, and product category performance.
 
 ### 2. Product & Customer Analytics
 
-![Product & Customer Analytics](<img width="1349" height="760" alt="image" src="https://github.com/user-attachments/assets/8cf8c033-be2a-4fd1-b0cd-8c698b39c633" />)
+![Product & Customer Analytics](https://github.com/user-attachments/assets/8cf8c033-be2a-4fd1-b0cd-8c698b39c633)
 
 Explores product category performance, sales distribution, customer purchasing patterns, average review scores, and product-level metrics. Interactive filters allow users to investigate performance across categories and products.
 
 ### 3. Delivery & Customer Experience
 
-![Delivery & Customer Experience]( <img width="1349" height="754" alt="image" src="https://github.com/user-attachments/assets/de3c778b-2f8a-447d-ae1a-4c25a93668c7" />)
+![Delivery & Customer Experience](https://github.com/user-attachments/assets/de3c778b-2f8a-447d-ae1a-4c25a93668c7)
 
 Evaluates delivery performance through on-time delivery rates, late deliveries, average delivery duration, geographic delivery performance, and customer review scores across delivery-delay categories.
 
