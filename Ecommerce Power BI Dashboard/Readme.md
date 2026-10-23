@@ -27,7 +27,8 @@ Evaluates delivery performance through on-time delivery rates, late deliveries, 
 
 The report uses a relational semantic model designed to support analysis across orders, order items, products, customers, sellers, payments, reviews, and delivery performance.
 
-![Power BI Semantic Model]()
+![Power BI Semantic Model](<img width="740" height="734" alt="image" src="https://github.com/user-attachments/assets/9d7a3a15-6b2c-4c69-a8fd-425505e4ebff" />
+)
 
 ### Star Schema & Relationships
 
@@ -50,6 +51,7 @@ Relationships use business keys such as `order_id`, `customer_id`, `product_id`,
 The model preserves the grain of each transactional table to reduce double-counting when analyzing different aspects of marketplace performance. For example, order-level delivery metrics are calculated from `Orders`, while product revenue is calculated from `Order Items` and payment metrics are calculated from `Payments`.
 
 ### Dedicated DAX Measure Table
+<img width="298" height="443" alt="image" src="https://github.com/user-attachments/assets/aa0dd8eb-d5a6-4d8d-8288-f1b9b9b75534" />
 
 A separate, dedicated measure table is used to organize DAX measures independently of the source data tables.
 
