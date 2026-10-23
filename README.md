@@ -1,2 +1,2 @@
 # Business_Intelligence
-BI Projects - Power BI, Tableau, Looker 
+This repo contains the projects related to Business_Intelligence - Power BI, Tableau, Looker. 
