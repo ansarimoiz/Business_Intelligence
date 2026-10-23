@@ -5,7 +5,9 @@ An interactive Power BI dashboard built using the Brazilian E-Commerce Public Da
 ## Dashboard Preview
 
 ### 1. Executive Overview
+<h3>Executive Overview</h3>
 
+<img width="1352" alt="Executive Overview" src="https://github.com/user-attachments/assets/749fa22c-5d36-43fc-9ec9-1aac296f300f" />
 ![Executive Overview](https://github.com/user-attachments/assets/749fa22c-5d36-43fc-9ec9-1aac296f300f)
 
 Provides a consolidated view of marketplace performance, including sales, order volume, delivery metrics, average review scores, monthly sales trends, and product category performance.
